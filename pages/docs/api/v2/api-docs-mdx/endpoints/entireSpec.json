@@ -20,7 +20,7 @@
     "/now/registration": {
       "post": {
         "operationId": "RequestALogin",
-        "description": "Request a new login for an user to get a token.",
+        "description": "Really, request a new login for an user to get a token. It's cool that you can do that.",
         "parameters": [],
         "responses": {
           "200": {
